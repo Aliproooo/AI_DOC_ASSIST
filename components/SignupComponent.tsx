@@ -44,6 +44,7 @@ const SignupComponent = () => {
       Alert.alert('Error', 'Please fill confirm Password.');
       return;
     }
+    
     navigation.navigate('Login');
   };
 
