@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660530221153",
+    "project_id": "aidocassist-2c6b0",
+    "storage_bucket": "aidocassist-2c6b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660530221153:android:dd54f7611ef84827801a20",
+        "android_client_info": {
+          "package_name": "com.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhFcP6fHK6zJcp6NbRrdqerFAfw2dK79g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
