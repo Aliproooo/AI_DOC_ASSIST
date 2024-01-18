@@ -14,6 +14,7 @@ const SignupComponent = () => {
 
   const navigation = useNavigation();
 
+  
   const handleSignUp = () => {
     console.log("asdadadsadasd");
     if (username.trim() === '') {
@@ -44,7 +45,7 @@ const SignupComponent = () => {
       Alert.alert('Error', 'Please fill confirm Password.');
       return;
     }
-    
+
     navigation.navigate('Login');
   };
 
